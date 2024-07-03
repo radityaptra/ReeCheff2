@@ -10,21 +10,6 @@
     <section>
       <h2>Resep Terbaru</h2>
       <div class="section-content">
-        <div class="recipe-card">
-          <img src="./assets/mie aceh.jpg" alt="mie aceh">
-          <h3>mie aceh</h3>
-          <p>mie aceh adalah makanan yang berasal dari aceh.</p>
-        </div>
-        <div class="recipe-card">
-          <img src="./assets/ketoprak.jpg" alt="ketoprak">
-          <h3>ketoprak</h3>
-          <p>ketoprak makanan dari jawa barat.</p>
-        </div>
-        <div class="recipe-card">
-          <img src="./assets/sup ayam.jpg" alt="sup ayam">
-          <h3>sup ayam</h3>
-          <p>sup ayam makanan berasal dari bali.</p>
-        </div>
       </div>
       <h2>Resep Populer</h2>
       <div class="section-content">
